@@ -65,7 +65,7 @@ a{
 }
 
 .botoes-carrossel .botao.selecionado{
-background-color: green;
+background-color: red;
 }
 
 .menu-lateral{
