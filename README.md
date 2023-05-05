@@ -1,6 +1,6 @@
 # Dead By Daylight Carousel
 
-Meu primeiro projeto, realizado passo a passo ajuda dos gêmeos do Dev em Dobro.
+Meu primeiro projeto, realizado passo a passo com ajuda dos gêmeos do Dev em Dobro.
 
 ## Screenshot
 
